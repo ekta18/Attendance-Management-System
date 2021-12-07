@@ -7,7 +7,7 @@
 
 ## <a name="system">What does it include?</a>
 
-**Attendance Management System** is a software developed for keeping a tab of daily student attendance in schools, colleges and institutes. It is a system which keeps a record of lectures attended by students. Both teachers and students can use this system to view the attendance of a student who is already registered in the system. It also displays the percentage of overall attendance of a student which will help them to maintain the required percentage of attendance.
+**Attendance Management System** is a software developed for keeping a tab of daily student attendance in schools and colleges. It is a system which keeps a record of lectures attended by students. Both teachers and students can use this system to view the attendance of a student who is already registered in the system. It also displays the percentage of overall attendance of a student which will help them to maintain the required percentage of attendance.
 
 ---
 
