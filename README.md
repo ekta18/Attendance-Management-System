@@ -31,7 +31,7 @@
       <td><img src="images/teacher_registration.png" width=420 height=350></td>
    </tr>
    <tr>
-       <td><p align="center"><b>User Login**</b></p></td>
+       <td><p align="center"><b>User Login</b></p></td>
       <td><p align="center"><b>Teacher Registration</b></p></td>
    </tr>
    <tr>
