@@ -1,4 +1,4 @@
-# Attendance-Management-System 📝
+# Attendance Management System 📝
 
 <p align="center">
     <img src="images/attendance_img.png" alt="BannerImage">
