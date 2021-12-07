@@ -31,24 +31,24 @@
       <td><img src="images/teacher_registration.png" width=420 height=350></td>
    </tr>
    <tr>
-       <td><p align="center">**User Login**</p></td>
-      <td><p align="center">**Teacher Registration**</p></td>
+       <td><p align="center"><b>User Login**</b></p></td>
+      <td><p align="center"><b>Teacher Registration</b></p></td>
    </tr>
    <tr>
       <td><img src="images/student_registration.png" width=420 height=350></td>
       <td><img src="images/login_page.png" width=420 height=350></td>
    </tr>
    <tr>
-      <td><p align="center">**Student Registration**</p></td>
-      <td><p align="center">**Login Page**</p></td>
+      <td><p align="center"><b>Student Registration</b></p></td>
+      <td><p align="center"><b>Login Page</b></p></td>
    </tr>
    <tr>
       <td><img src="images/add_attendance.png" width=420 height=350></td>
       <td><img src="images/view_attendance.png" width=420 height=350></td>
    </tr>
     <tr>
-      <td><p align="center">**Add Attendance**</p></td>
-      <td><p align="center">**View Attendance**</p></td>
+      <td><p align="center"><b>Add Attendance</b></p></td>
+      <td><p align="center"><b>View Attendance</b></p></td>
    </tr>
 </table>
 
